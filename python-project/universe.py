@@ -1,5 +1,7 @@
-def count_all_stars(galaxies):
-    total_stars = 0
-    for stars in galaxies:
-        total_stars = stars  # fix me!
-    return total_stars
+import turtle
+
+t = turtle.Turtle()
+
+t.forward(100)
+
+t.done()
