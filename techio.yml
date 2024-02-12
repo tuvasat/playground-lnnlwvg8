@@ -1,6 +1,8 @@
 title: Python Project
 plan:
 - title: The first sprint
+  statement: markdowns/intro.md
+- title: The first sprint
   statement: markdowns/the_first_sprint.md
 - title: The second sprint
   statement: markdowns/the_second_sprint.md
