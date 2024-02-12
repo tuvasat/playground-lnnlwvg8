@@ -1,7 +1,7 @@
 Исправьте программы
 ---
 
-```
+```python runable
 my_string = input()
 if my_string == '':
     my_string == 'Пустая строка означает конец программы.
