@@ -15,18 +15,18 @@
 -[ ] Счетчик
 
 ?[Отметьте строки написанные без ошибок]
--[x] '''my_string = input()'''
--[x] '''if my_string == '':'''
--[ ] '''    my_string == 'Пустая строка означает конец программы.''''
--[ ] '''else'''
--[x] '''    print(my_string)'''
+-[x] ```my_string = input()```
+-[x] ```if my_string == '':```
+-[ ] ```    my_string == 'Пустая строка означает конец программы.```
+-[ ] ```else```
+-[x] ```    print(my_string)```
 
 ?[Отметьте строки написанные без ошибок]
--[x] my_string = input()
--[ ] while my_string = '':
--[ ]     my_string != input()
--[ ]     print(my_string())
--[x]     print('Все ошибки нашли?')
+-[x] ```my_string = input()```
+-[ ] ```while my_string = '':```
+-[ ] ```    my_string != input()```
+-[ ] ```    print(my_string())```
+-[x] ```    print('Все ошибки нашли?')```
 
 
 Задача Преправа.
