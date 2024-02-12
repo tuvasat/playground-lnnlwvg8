@@ -1,10 +1,10 @@
 Что такое алгоритм?
-[ ] dfgshgh
-[ ] dfgshgh
-[ ] dfgshgh
-[ ] dfgshgh
-[ ] dfgshgh
-[X] dfgshgh
+[ ]: dfgshgh
+[ ]: dfgshgh
+[ ]: dfgshgh
+[ ]: dfgshgh
+[ ]: dfgshgh
+[X]: dfgshgh
 
 
 
