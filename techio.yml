@@ -1,7 +1,7 @@
 title: Python Project
 plan:
-- title: Welcome
-  statement: markdowns/welcome.md
+- title: The first sprint
+  statement: markdowns/The_first_sprint.md
 - title: Welcome1
   statement: markdowns/welcome1.md
 projects:
