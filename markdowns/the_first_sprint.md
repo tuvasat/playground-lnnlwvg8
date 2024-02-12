@@ -22,13 +22,11 @@
 -[x] ```    print(my_string)```
 
 ?[Отметьте строки написанные без ошибок]
--[x] ```pythonmy_string = input()```
--[ ] ```pythonwhile my_string = '':```
--[ ] ```python    my_string != input()```
--[ ] ```python    print(my_string())```
--[x] ```python
-    print('Все ошибки нашли?')
-    ```
+-[x] ```my_string = input()```
+-[ ] ```while my_string = '':```
+-[ ] ```    my_string != input()```
+-[ ] ```    print(my_string())```
+-[x] `    print('Все ошибки нашли?')`
 
 
 Задача Преправа.
