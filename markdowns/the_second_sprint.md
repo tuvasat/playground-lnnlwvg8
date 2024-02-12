@@ -1,7 +1,7 @@
 Исправьте программы
 ---
 
-```python runable
+```python runnable
 my_string = input()
 if my_string == '':
     my_string == 'Пустая строка означает конец программы.
@@ -9,7 +9,7 @@ else
     print(my_string)
 ```
 
-```
+```python runnable
 my_string = input()
 while my_string = '':
     my_string != input()
@@ -17,7 +17,7 @@ while my_string = '':
 print('Все ошибки нашли?')
 ```
 
-```
+```python runnable
 count == int(input())
 result = ''
 for i in to range(count)
