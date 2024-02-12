@@ -26,7 +26,9 @@
 -[ ] ```pythonwhile my_string = '':```
 -[ ] ```python    my_string != input()```
 -[ ] ```python    print(my_string())```
--[x] ```python    print('Все ошибки нашли?')```
+-[x] ```python
+    print('Все ошибки нашли?')
+    ```
 
 
 Задача Преправа.
