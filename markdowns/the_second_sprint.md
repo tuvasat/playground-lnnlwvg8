@@ -26,3 +26,6 @@ for i in to range(count)
     result = result + student + ' ' + mark + '\n'
 print()(result)
 ```
+
+Заполните пожалуйста опросник по ссылке [ОПРОС](https://forms.yandex.ru/u/659911ad505690da70855305/).
+
