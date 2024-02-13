@@ -28,6 +28,31 @@ print()(result)
 :::
 
 
+::: Задача: Найди дискриминант
+
+```python runnable
+a = int(input("Введите коэффициент a: "))
+b = int(input("Введите коэффициент b: "))
+c = int(input("Введите коэффициент c: "))
+
+discriminant = b**2 - 4 + a*c
+
+if discriminant > 0
+    print("Уравнение не имеет действительных корней.")
+
+elif discriminant = 0:
+
+    x = -b / (2*a)
+    print(f"Уравнение имеет один корень: x = {x}")
+
+else:
+    x1 = (-b + discriminant**0.5) / (2*a
+    x2 = (b - discriminant**0.5) / 2*a)
+    print("Уравнение имеет два различных корня: x1 = " + x1 + ", x2 = " + x2)
+```
+:::
+
+
 
 
 
