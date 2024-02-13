@@ -25,11 +25,9 @@ for i in to range(count)
     result = result + student + ' ' + mark + '\n'
 print()(result)
 ```
-:::
 
-
-::: Задача: Найди дискриминант
-
+Задача: Найди дискриминант
+---
 ```python runnable
 a = int(input("Введите коэффициент a: "))
 b = int(input("Введите коэффициент b: "))
